@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oredoiga.github.io/hca/sitemap_index.txt.gz
+Sitemap: https://oredoiga.github.io/ohY/sitemap_index.txt.gz
+Sitemap: https://oredoiga.github.io/pFH/sitemap_index.txt.gz
+Sitemap: https://oredoiga.github.io/uPm/sitemap_index.txt.gz
+Sitemap: https://oredoiga.github.io/xyG/sitemap_index.txt.gz
